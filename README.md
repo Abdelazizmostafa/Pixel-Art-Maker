@@ -7,7 +7,7 @@ robosta - Front-End Web Developer internship project. In this project were given
 ## Getting Started
 
 ##### Live
-**Go to** https://github.com/Abdelazizmostafa/Pixel-Art-Maker
+**Go to** https://abdelazizmostafa.github.io/Pixel-Art-Maker/
 
 ##### Locally
 
